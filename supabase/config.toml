@@ -1,0 +1,13 @@
+project_id = "lwmvyajjmiogqpjtcbga"
+
+[functions.fetch-hadiths]
+verify_jwt = false
+
+[functions.import-hadiths]
+verify_jwt = false
+
+[functions.ai-chat]
+verify_jwt = false
+
+[functions.ai-search]
+verify_jwt = false
